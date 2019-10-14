@@ -1,2 +1,2 @@
 # vbm-test
-this is a testing prohject
+VBM INFO TECH
